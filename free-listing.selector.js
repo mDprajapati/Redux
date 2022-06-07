@@ -1,0 +1,1 @@
+export const IsFreeListing = state => state.FreeListing.ContactDetails;
